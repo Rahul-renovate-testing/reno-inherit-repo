@@ -1,0 +1,8 @@
+{
+  "hostRules": [
+    {
+      "matchHost": "lmao",
+      "token": "superlmao"
+    }
+  ]
+}
