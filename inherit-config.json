@@ -1,8 +1,8 @@
 {
   "hostRules": [
     {
-      "matchHost": "lmao",
-      "token": "superlmao"
+      "matchHost": "https://gitlab.myorg.com/api/v4/packages/npm/",
+      "token": "abc123"
     }
   ]
 }
