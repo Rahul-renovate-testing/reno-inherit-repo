@@ -4,5 +4,6 @@
       "matchHost": "https://gitlab.myorg.com/api/v4/packages/npm/",
       "token": "abc123"
     }
-  ]
+  ],
+  "labels": ["inherited"]
 }
